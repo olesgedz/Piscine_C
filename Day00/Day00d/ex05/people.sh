@@ -1,0 +1,1 @@
+ldapsearch -o ldif-wrap=no -L "(cn=z*)" cn | grep '^cn' | cut -c  5-999 

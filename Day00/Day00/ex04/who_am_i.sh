@@ -1,0 +1,1 @@
+ldapsearch -LLL    "(uid=jblack-b)"    /tmp/ |  cut -c 5-999
