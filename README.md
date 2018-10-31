@@ -1,2 +1,3 @@
-# Day00
-booo
+# Piscine_C
+
+Don't try to copy it, there are mistakes, but maybe you can learn a thing or two from it... 
